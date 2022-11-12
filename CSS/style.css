@@ -1,0 +1,20 @@
+body {
+  background-color: #007AFF;
+}
+.container-fluid {
+  margin-top:150px;
+}
+p {
+font-size:x-large;
+}
+.mdi-36px {
+  font-size: 39px;
+  margin-right:10px;
+}
+.btn {
+background-color: white;
+}
+.padding {  
+  padding-top:100px;
+  padding-bottom: 50px;
+}
